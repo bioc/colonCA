@@ -35,7 +35,7 @@ dim(xx)
 xx[1:5,1:5]
 
 colonCA$class
-geneNames(colonCA)[1:20]
+featureNames(colonCA)[1:20]
 colnames(xx) <- as.character(colonCA$class)
 xx[1:5,1:5]
 }
