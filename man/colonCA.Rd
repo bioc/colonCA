@@ -20,6 +20,9 @@ Expression set with 2000 genes and 62 samples. \cr
 \details{
 40 samples are from tumors (labelled as "negative") and 22 samples are from normal (labelled as "positive") biopsies from healthy parts of the colons of the same patients. \cr
 Two thousand out of around 6500 genes were selected based on the confidence in the measured expression levels (for details refer to publication). No further preprocessing (normalization etc.) was done.
+
+Note: the featureNames in this dataset were not unique when submitted; make.names(unique=TRUE)
+was run and some featureNames have suffix .1, .2, etc. added to establish uniqueness.
 }
 \source{
   \url{http://microarray.princeton.edu/oncology/affydata/index.html}
