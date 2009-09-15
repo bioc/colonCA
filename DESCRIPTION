@@ -4,6 +4,6 @@ Version: 1.4.5
 Author: Sylvia Merk
 Description: exprSet for Alon et al. (1999) colon cancer data
 Maintainer: W Sylvia Merk <sylvia.merk@ukmuenster.de>
-License: unknown
+License: LGPL
 Depends: Biobase (>= 2.5.5)
 biocViews: ExperimentData, Cancer, Colon
