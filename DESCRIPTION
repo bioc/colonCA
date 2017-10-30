@@ -1,6 +1,6 @@
 Package: colonCA
 Title: exprSet for Alon et al. (1999) colon cancer data
-Version: 1.20.0
+Version: 1.21.0
 Author: Sylvia Merk
 Description: exprSet for Alon et al. (1999) colon cancer data
 Maintainer: W Sylvia Merk <sylvia.merk@ukmuenster.de>
